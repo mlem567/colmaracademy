@@ -17,13 +17,14 @@ body {
 /*header */
 
 header-name{
-  color: black;
+  color: darkgrey;
   font-weight: 400;
 }
 
 .header-title{
-  font-weight: 400;
+  font-weight: bold;
   color: black;
+  font: 32px;
 }
 
 header{
