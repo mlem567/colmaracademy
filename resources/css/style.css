@@ -4,7 +4,7 @@ html{
 }
 
 main{
-  background-color: darkgrey;
+  background-color: darkgray;
   position: relative;
   width: 100%;
 }
@@ -69,7 +69,7 @@ nav ul {
 }
 
 a {
-    color: darkgrey;
+    color: darkgray;
     text-decoration: none;
 }
 
@@ -79,6 +79,7 @@ a {
 
 .container{
   display: flex;
+  flex-direction: column;
   margin: auto;
   align-content: center;
   border: 1px;
