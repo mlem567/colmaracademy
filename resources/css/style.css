@@ -1,7 +1,6 @@
 html{
   font-size: 16px;
-  font-family: "Verdana", sans-serif;
-  color: eggshell;
+  color: white;
 }
 
 main{
@@ -12,6 +11,7 @@ main{
 
 body {
     margin: 0;
+    font-family: "Helvetica", sans-serif;
 }
 
 /*header */
@@ -33,15 +33,16 @@ header{
   height: 4rem;
   width: 100%;
   justify-content: space-between;
-  display: flex;
+  display: inline-flex;
   position: fixed;
   z-index: 1;
+  align-items: center;
 }
 
 /* logo */
 
 .logo{
-  display: flex;justify-content: space-between;
+  display: flex;
   align-items: center;
 }
 
@@ -74,4 +75,32 @@ a {
 
 .desktop-nav a{
   padding: 0px 1rem;
+}
+
+.container{
+  display: flex;
+  margin: auto;
+  align-content: center;
+  border: 1px;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.8rem;
+}
+
+h4{
+  font-size: 1.25rm;
+  font-weight: 600;
+}
+
+.banner-image{
+  width:60%;
+  height: auto;
+}
+
+.banner-image img{
+  width: 100%;
+  height: auto;
 }
