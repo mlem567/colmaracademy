@@ -44,6 +44,7 @@ header{
 .logo{
   display: flex;
   align-items: center;
+  margin-left: 24px;
 }
 
 .logo img{
@@ -99,7 +100,7 @@ h3{
 .banner-image{
   width:60%;
   height: auto;
-  margin: 50px 24px 0px 24px;
+  margin: 50px 24px 32px 24px;
 }
 
 .banner-image img{
