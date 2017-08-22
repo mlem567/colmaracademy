@@ -91,10 +91,27 @@ h1{
   margin: 100px 120px 40px 0px;
 }
 
-h3{
+h4{
   font-size: 1.25rm;
   font-weight: 600;
   margin: 0px 0px 40px 0px;
+}
+
+h3{
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 24px 24px;
+}
+
+h5{
+  font-size: 1rem;
+  font-weight: 700px;
+  margin-bottom: 32px;
+
+}
+
+p{
+  font-size: 1rem;
 }
 
 .banner-image{
