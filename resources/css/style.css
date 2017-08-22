@@ -115,6 +115,10 @@ h3{
   margin-left: 2.5rem;
 }
 
+.column{
+  flex-direction: column;
+}
+
 .button{
   background-color: #3e282a;
   text-align: center;
