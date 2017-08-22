@@ -85,7 +85,7 @@ a {
 }
 
 h1{
-  font-size: 4rem;
+  font-size: 2.5rem;
   font-weight: 900;
 }
 
@@ -111,11 +111,13 @@ h3{
 }
 
 .learning-text{
-  margin-left: 2.5rem;
+  margin-left: 24px;
 }
 
 .column{
   flex-direction: column;
+
+  margin: 10px 10px 10px 10px;
 }
 
 .button{
