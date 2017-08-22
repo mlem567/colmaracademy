@@ -143,13 +143,13 @@ p{
 
 .banner-text h1{
   font-size: 50px;
-  margin-bottom: 16px;
+  margin-bottom: 2.5rem;
   color: darkgray;
 }
 
 .banner-text h2{
   font-size: 20px;
-  margin-bottom: 16px;
+  margin-bottom: 2.5rem;
   color:darkgray;
 }
 
@@ -179,7 +179,34 @@ p{
 .left-info{
   display: flex;
   background-color: #a951bd;
+}
 
+.left-info-text{
+  display: flex;
+  flex-direction: column;
+  padding: 32px 24px;
+  width: 60%;
+}
+
+.left-info-text img{
+  margin-bottom: 32px;
+  width: 100%;
+}
+
+.left-info-text h2{
+  margin-bottom: 24px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.left-info-text h5{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.left-info-text p{
+  margin-bottom: 36px;
+  font-size: 20px;
 }
 
 /* right info column */
@@ -197,15 +224,11 @@ p{
   width: 423px;
   height: 168px;
   border-bottom: 5px solid black;
-
 }
 
 .right-column .right-box-info img{
   margin: 16px;
-  width: 35%auto;
-  border: 3px darkgray;
-  border-radius: 25px;
-  box-shadow: 0px 0px 2.5px 2px white;
+  width: 35%;
 }
 
 .right-column .right-box-info .box-text p{
