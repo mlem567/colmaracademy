@@ -104,3 +104,25 @@ h4{
   width: 100%;
   height: auto;
 }
+
+/*learning */
+
+#learning{
+  padding: 2rem 1.5rem;
+}
+
+.learning-text{
+  margin-left: 2.5rem;
+}
+
+.button{
+  background-color: #3e282a;
+  text-align: center;
+  padding: 1rem;
+  border-radius: .3rem;
+}
+
+.button a{
+  color: #fff;
+  text-decoration: none;
+}
