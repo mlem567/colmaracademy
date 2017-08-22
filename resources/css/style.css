@@ -124,6 +124,7 @@ p{
   padding: 117px 24px 32px 24px;
   justify-content: center;
   align-items: center;
+  background-color: #f1f2ee;
   border-bottom: 3px solid black;
 }
 
@@ -143,11 +144,13 @@ p{
 .banner-text h1{
   font-size: 50px;
   margin-bottom: 16px;
+  color: darkgray;
 }
 
 .banner-text h2{
   font-size: 20px;
   margin-bottom: 16px;
+  color:darkgray;
 }
 
 
@@ -169,6 +172,14 @@ p{
   color: #fff;
   text-decoration: none;
   margin: 8px 8px;
+}
+
+/* left info column */
+
+.left-info{
+  display: flex;
+  background-color: #a951bd;
+
 }
 
 /* right info column */
