@@ -125,7 +125,7 @@ p{
   justify-content: center;
   align-items: center;
   background-color: #f1f2ee;
-  border-bottom: 3px solid black;
+
 }
 
 .banner img{
@@ -219,7 +219,6 @@ p{
 .right-column{
   margin-top: 32px;
   margin-left: 32px;
-  border-left: 5px solid black;
   width: 40%;
 }
 
@@ -227,7 +226,6 @@ p{
   display: flex;
   align-items: center;
   height: auto;
-  border-bottom: 5px solid black;
 }
 
 .right-column .right-box-info img{
