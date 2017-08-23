@@ -183,7 +183,7 @@ p{
 .left-info-text{
   display: flex;
   flex-direction: column;
-  padding: 32px 24px;
+  margin: 32px 0px 0px 32px;
   width: 60%;
 }
 
@@ -315,6 +315,7 @@ p{
 
 .row {
   display: flex;
+  margin-bottom: 32px;
   justify-content: center;
   width: 100%;
 }
@@ -322,7 +323,7 @@ p{
 .class{
   width: 26%;
   height: 400px;
-  margin: 0 16px 20px 16px;
+  margin: 0 32px 20px 16px;
   background-color: white;
 }
 
