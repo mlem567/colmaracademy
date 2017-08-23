@@ -190,13 +190,12 @@ p{
 }
 
 .left-info-text img{
-  margin-bottom: 32px;
   width: 100%;
 }
 
 .left-info-text h2{
   margin: 32px 0px 24px;
-  font-size: 36px;
+  font-size: 3.5rem;
   font-weight: bold;
   color: #787878
 }
