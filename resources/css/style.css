@@ -245,6 +245,13 @@ p{
   color: #bccbe1;
 }
 
+.box-text{
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  padding: 32px 24px;
+}
+
 .guest {
   background-color: #cad6e7;
   color: #2f835f;
