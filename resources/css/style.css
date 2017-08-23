@@ -130,9 +130,7 @@ p{
 
 .banner img{
   width: 60%;
-  margin-right: 80px;
-  border: 5px darkgray;
-  border-radius: 1px;
+  margin: 32px 24px 32px 24px;
 }
 
 .banner-text{
@@ -191,24 +189,25 @@ p{
 
 .left-info-text img{
   width: 100%;
+  margin: 32px 24px 32px 24px;
 }
 
 .left-info-text h2{
-  margin: 32px 0px 24px;
-  font-size: 3.5rem;
+  margin: 32px 0px 24px 24px;
+  font-size: 3rem;
   font-weight: bold;
   color: #787878
 }
 
 .left-info-text h5{
   font-size: 16px;
-  margin-bottom: 32px
+  margin: 24px 0 24px 32px;
   font-weight: normal;
   color: #787878
 }
 
 .left-info-text p{
-  margin-bottom: 75px;
+  margin: 32px 24px;
   font-size: 20px;
   color: #787878
 }
@@ -288,7 +287,7 @@ p{
 }
 
 .right-column .right-box-info-guest .box-text a{
-  color: #bccbe1;
+  color: #138df1;
 }
 
 .guest {
@@ -311,6 +310,7 @@ p{
   margin-bottom: 32px;
   font-size: 50px;
   font-weight: bold;
+  color: #787878
 }
 
 .row {
