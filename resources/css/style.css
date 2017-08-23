@@ -236,7 +236,7 @@ p{
 }
 
 .right-column .right-box-info .box-text h3{
-  font-size: 24px;
+  font-size: 2.5rem;
   font-weight: bold;
   margin-bottom: 16px;
   margin-left: 0;
@@ -251,6 +251,36 @@ p{
   flex-direction: column;
   width: 65%;
   padding: 32px 24px;
+}
+
+/* right box info guest */
+
+.right-column .right-box-info-guest{
+  display: flex;
+  align-items: center;
+  height: auto;
+  border-bottom: 5px solid black;
+}
+
+.right-column .right-box-info-guest img{
+  margin: 16px;
+  width: 35%;
+}
+
+.right-column .right-box-info-guest .box-text p{
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.right-column .right-box-info-guest .box-text h3{
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 16px;
+  margin-left: 0;
+}
+
+.right-column .right-box-info-guest .box-text a{
+  color: #bccbe1;
 }
 
 .guest {
