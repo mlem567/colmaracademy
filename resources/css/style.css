@@ -288,3 +288,57 @@ p{
   background-color: #cad6e7;
   color: #2f835f;
 }
+
+/*start learning */
+
+.start-learning{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+  padding: 32px 32px;
+}
+
+.start-learning h2{
+  margin-bottom: 32px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.class{
+  width: 25%;
+  height: 400px;
+  margin: 0 16px 20px 16px;
+
+}
+
+.class img{
+  width: 100;
+  height: 50%;
+}
+
+.class h3{
+  margin: 16px 36px;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.class p{
+  margin-bottom: 24px;
+  margin-left: 16px;
+  font-size: 16px;
+}
+
+.class h4{
+  margin-left: 16px;
+  margin-bottom: 24px;
+  font-size: 20px;
+}
