@@ -100,18 +100,21 @@ h4{
 h3{
   font-size: 1.4rem;
   font-weight: 700;
-  margin: 24px 24px;
+  margin: 24px 0px 24px 0px;
+  color: #787878
 }
 
 h5{
   font-size: 1rem;
   font-weight: 700px;
   margin-bottom: 32px;
+  color: #787878
 
 }
 
 p{
   font-size: 1rem;
+  color: #787878
 }
 
 
@@ -426,11 +429,12 @@ p{
   height: 150px;
 }
 
-.thesis-right .article{
+.thesis-right .article .fisma{
   display: flex;
   align-items: center;
   width: 400px;
   height: 150px;
+  color: #787878
 }
 
 .thesis-right .article img{
