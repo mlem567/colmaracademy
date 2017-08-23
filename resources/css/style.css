@@ -333,7 +333,7 @@ p{
 }
 
 .class h3{
-  margin: 16px 0px 0px 16px;
+  margin: 16px 0px 16px 16px;
   font-size: 32px;
   text-align: left;
   font-weight: bold;
@@ -350,7 +350,7 @@ p{
 
 .class h4{
   margin-left: 16px;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   margin-top:8px;
   font-size: 20px;
   font-weight: lighter;
