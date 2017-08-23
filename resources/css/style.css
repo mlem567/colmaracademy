@@ -11,7 +11,7 @@ main{
 
 body {
     margin: 0;
-    font-family: "Helvetica", sans-serif;
+    font-family: "Arial", sans-serif;
 }
 
 /*header */
@@ -121,7 +121,7 @@ p{
 
 .banner{
   display: flex;
-  padding: 100px 24px 32px 32px;
+  padding: 70px 24px 32px 32px;
   justify-content: center;
   align-items: center;
   background-color: #f1f2ee;
