@@ -121,7 +121,7 @@ p{
 
 .banner{
   display: flex;
-  padding: 117px 24px 32px 24px;
+  padding: 100px 24px 32px 32px;
   justify-content: center;
   align-items: center;
   background-color: #f1f2ee;
@@ -130,7 +130,7 @@ p{
 
 .banner img{
   width: 60%;
-  margin: 32px 24px 32px 24px;
+  margin: 32px 65px 32px 24px;
 }
 
 .banner-text{
@@ -227,7 +227,7 @@ p{
 }
 
 .right-column .right-box-info img{
-  margin: 16px;
+  margin: 32px;
   width: 35%;
 }
 
@@ -268,7 +268,7 @@ p{
 }
 
 .right-column .right-box-info-guest img{
-  margin: 16px;
+  margin: 32px;
   width: 35%;
 }
 
