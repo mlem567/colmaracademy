@@ -221,8 +221,7 @@ p{
 .right-column .right-box-info{
   display: flex;
   align-items: center;
-  width: 423px;
-  height: 168px;
+  height: auto;
   border-bottom: 5px solid black;
 }
 
