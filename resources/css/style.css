@@ -265,7 +265,7 @@ p{
   align-items: center;
   height: auto;
   background-color: lightgray;
-  border-bottom: 5px solid black;
+  border-left-style: solid: 1px solid gray;
 }
 
 .right-column .right-box-info-guest img{
