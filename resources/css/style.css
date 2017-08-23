@@ -115,8 +115,6 @@ p{
 }
 
 
-
-
 /*banner section */
 
 .banner{
@@ -360,4 +358,23 @@ p{
 .start-learning .row .class .desktop img{
   margin:16px;
   width: 28%;
+}
+
+/* thesis exhibit */
+
+.thesis-exhibit {
+  padding 32px 24px;
+  background-color: #c1df53;
+}
+
+.thesis-container{
+  display: flex;
+}
+
+.thesis-exhibit .thesis-title{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+  font-size: 2rem;
+  font-weight: bold;
 }
