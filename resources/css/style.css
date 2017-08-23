@@ -325,9 +325,9 @@ p{
 }
 
 .class h3{
-  margin: 16px 36px;
+  margin: 16px 0px 36px 0px;
   font-size: 32px;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
 }
 
