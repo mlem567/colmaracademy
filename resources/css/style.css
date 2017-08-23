@@ -419,12 +419,18 @@ p{
   width: 40%;
 }
 
+.thesis-text .article{
+  display: flex;
+  align-items: center;
+  width: 400px;
+  height: 150px;
+}
+
 .thesis-right .article{
   display: flex;
   align-items: center;
   width: 400px;
   height: 150px;
-
 }
 
 .thesis-right .article img{
