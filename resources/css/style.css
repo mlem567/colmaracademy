@@ -342,3 +342,8 @@ p{
   margin-bottom: 24px;
   font-size: 20px;
 }
+
+.start-learning .row .class .desktop img{
+  margin:16px;
+  width: 28%;
+}
