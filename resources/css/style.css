@@ -259,13 +259,13 @@ p{
   display: flex;
   align-items: center;
   height: auto;
+  background-color: lightgray;
   border-bottom: 5px solid black;
 }
 
 .right-column .right-box-info-guest img{
   margin: 16px;
   width: 35%;
-  background-color: lightgray;
 }
 
 .right-column .right-box-info-guest .box-text p{
