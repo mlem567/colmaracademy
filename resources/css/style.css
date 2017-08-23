@@ -197,16 +197,19 @@ p{
   margin-bottom: 24px;
   font-size: 36px;
   font-weight: bold;
+  color: #787878
 }
 
 .left-info-text h5{
   font-size: 16px;
   font-weight: bold;
+  color: #787878
 }
 
 .left-info-text p{
   margin-bottom: 36px;
   font-size: 20px;
+  color: #787878
 }
 
 /* right info column */
@@ -233,6 +236,7 @@ p{
 .right-column .right-box-info .box-text p{
   font-size: 24px;
   margin-bottom: 16px;
+  color: #787878
 }
 
 .right-column .right-box-info .box-text h3{
@@ -240,10 +244,12 @@ p{
   font-weight: bold;
   margin-bottom: 16px;
   margin-left: 0;
+  color: #787878
 }
 
 .right-column .right-box-info .box-text a{
   color: #bccbe1;
+  color: #787878
 }
 
 .box-text{
@@ -271,6 +277,7 @@ p{
 .right-column .right-box-info-guest .box-text p{
   font-size: 24px;
   margin-bottom: 16px;
+  color: #787878
 }
 
 .right-column .right-box-info-guest .box-text h3{
@@ -278,6 +285,7 @@ p{
   font-weight: bold;
   margin-bottom: 16px;
   margin-left: 0;
+  color: #787878
 }
 
 .right-column .right-box-info-guest .box-text a{
