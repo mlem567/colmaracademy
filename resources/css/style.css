@@ -236,7 +236,7 @@ p{
 }
 
 .right-column .right-box-info .box-text h3{
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   font-weight: bold;
   margin-bottom: 16px;
   margin-left: 0;
@@ -265,6 +265,7 @@ p{
 .right-column .right-box-info-guest img{
   margin: 16px;
   width: 35%;
+  background-color: lightgray;
 }
 
 .right-column .right-box-info-guest .box-text p{
@@ -273,7 +274,7 @@ p{
 }
 
 .right-column .right-box-info-guest .box-text h3{
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   font-weight: bold;
   margin-bottom: 16px;
   margin-left: 0;
