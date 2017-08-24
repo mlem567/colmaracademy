@@ -522,3 +522,20 @@ video{
   width: 35%;
   height: auto;
 }
+
+
+/* footer */
+
+footer{
+  display: flex;
+  width: 100%;
+  padding-top: 16px;
+}
+
+footer a{
+  padding-right: 1rem;
+}
+
+footer span {
+  margin-left: 24px;
+}
