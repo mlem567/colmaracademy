@@ -541,6 +541,7 @@ footer span {
   color: #787878;
 }
 
-footer .left-footer {
+nav .left-footer {
   text-align: right;
+  flex-grow: 1;
 }
