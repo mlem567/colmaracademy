@@ -219,6 +219,10 @@ p{
   color: #787878
 }
 
+.urban-text h3, p{
+  margin: 24px 0px 32px 24px;
+}
+
 /* right info column */
 
 .right-column{
@@ -446,6 +450,7 @@ video{
   display: flex;
   align-items: center;
   width: 400px;
+  margin-bottom: 32px;
   height: 150px;
   color: #787878
 }
