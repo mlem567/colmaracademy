@@ -219,7 +219,11 @@ p{
   color: #787878
 }
 
-.urban-text h3, p{
+.urban-text p{
+  margin: 24px 0px 32px 24px;
+}
+
+.urban-text h3{
   margin: 24px 0px 32px 24px;
 }
 
@@ -472,6 +476,30 @@ video{
   font-size: 16px;
 }
 
-.article fisma{
+.container-fisma{
   background-color: #787878
+}
+
+/* thesis righ column */
+
+.fisma-text h3{
+  font-size: 2.0rem;
+  font-weight: bold;
+  margin: 24px 0px 32px 0px;
+}
+
+.fisma-text p{
+  font-size: 1rem;
+  margin: 24px 0px 32px 0px;
+}
+
+.thesis-text h3{
+  font-size: 2.0rem;
+  font-weight: bold;
+  margin: 24px 0px 32px 0px;
+}
+
+.thesis-text p{
+  font-size: 1rem;
+  margin: 24px 0px 32px 0px;
 }
