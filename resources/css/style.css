@@ -39,6 +39,7 @@ header{
   align-items: center;
 }
 
+
 /* logo */
 
 .logo{
@@ -56,6 +57,11 @@ header .logo .header-name{
   color: darkgrey;
 }
 
+/* header logos if mobile nav */
+
+.mobile-nav{
+  display: none;
+}
 
 
 /* Navigation */
@@ -389,9 +395,11 @@ p{
   font-weight: bold;
 }
 
+
+
 /* thesis left container */
 
-.thesis-left{
+.reimagine-urban{
   display: flex;
   flex-direction: column;
   width: 60%;
