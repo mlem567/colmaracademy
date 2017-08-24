@@ -513,3 +513,9 @@ video{
   height: 150px;
   color: #787878
 }
+
+.thesis-right .fisma-article img{
+  margin: 16px;
+  width: 35%;
+  height: auto;
+}
