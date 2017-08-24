@@ -395,6 +395,9 @@ p{
   font-weight: bold;
 }
 
+video{
+  width: 100%;
+}
 
 
 /* thesis left container */
