@@ -554,7 +554,7 @@ nav .left-footer {
 @media only screen and (max-width:625px){
 /* turn off the desktop elements and turn on the mobile elements */
 
-  .desktop-nav {
+  .desktop-nav, .logo, .left-info, .left-info-text, .left-info-text h3, .left-info-text p,  {
     display:none;
   }
 }
@@ -571,4 +571,8 @@ nav .left-footer {
   justify-content: space-around;
   align-items: center;
   width: 100%;
+}
+
+.mobile-nav li{
+  padding: 0;
 }
