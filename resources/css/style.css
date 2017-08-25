@@ -584,3 +584,33 @@ nav .left-footer {
 .mobile-nav li{
   padding: 0;
 }
+
+/* for mobile show the main banner section */
+
+.banner{
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner img{
+  display: flex;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+}
+
+.button{
+  width: 70%;
+  align-items: center;
+}
+
+.banner-text{
+  width: 90%;
+  height: auto;
+}
