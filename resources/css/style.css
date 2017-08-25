@@ -548,3 +548,27 @@ nav .left-footer {
   flex-grow: 1;
   color: #787878;
 }
+
+
+/* Mobile devices */
+@media only screen and (max-width:625px){
+/* turn off the desktop elements and turn on the mobile elements */
+
+  .desktop-nav {
+    display:none;
+  }
+}
+
+.mobile-nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.mobile-nav ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
