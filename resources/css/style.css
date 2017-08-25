@@ -559,10 +559,11 @@ nav .left-footer {
 
 
 /* Mobile devices */
-@media only screen and (max-width:470px){
+@media only screen and (max-width:625px){
 /* turn off the desktop elements and turn on the mobile elements */
 
-  .desktop-nav, .logo, .header-name, .header-title, .left-info, .left-info-text, .left-info-text h3, .left-info-text p,  {
+  .desktop-nav, .logo, .header-name, .header-title, .left-info, .left-info-text,
+  .left-info-text h3, .left-info-text p {
     display:none;
   }
 
