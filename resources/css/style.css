@@ -32,6 +32,10 @@ header-name{
   display: none;
 }
 
+.mobile-img{
+  display: none;
+}
+
 header{
   background-color: white;
   height: 4rem;
@@ -555,7 +559,7 @@ nav .left-footer {
 
 
 /* Mobile devices */
-@media only screen and (max-width:1024px){
+@media only screen and (max-width:470px){
 /* turn off the desktop elements and turn on the mobile elements */
 
   .desktop-nav, .logo, .header-name, .header-title, .left-info, .left-info-text, .left-info-text h3, .left-info-text p,  {
