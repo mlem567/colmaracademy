@@ -614,3 +614,36 @@ nav .left-footer {
   width: 90%;
   height: auto;
 }
+
+/* right column mobile show */
+
+.right-column {
+  padding: 1rem 1rem 2rem 1rem;
+  margin: 0;
+  margin-top: 2rem;
+}
+
+.right-box-info img{
+  display: block;
+  height: auto;
+  margin-top: 2rem;
+}
+
+.desktop{
+  display: none;
+}
+
+#mobile-img{
+  display: block;
+  width:200%;
+  align-items: center;
+}
+
+#mobile-img img{
+  width: 100%;
+}
+
+.box-text {
+  display: block;
+  margin-bottom: 1rem;
+}
