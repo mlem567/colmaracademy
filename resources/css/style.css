@@ -615,9 +615,9 @@ nav .left-footer {
   height: auto;
 }
 
-/* right column mobile show */
+/* right column mobile show infomation section*/
 
-@media only screen and (max-width: 625px) {
+@media only screen and (max-width:625px) {
 
 .right-column {
   padding: 1rem 1rem 2rem 1rem;
@@ -637,7 +637,7 @@ nav .left-footer {
 
 #mobile-img{
   display: block;
-  width:200%;
+  width:250%;
   align-items: center;
 }
 
