@@ -24,7 +24,7 @@ header-name{
 .header-title{
   font-weight: bold;
   color: black;
-  font: 32px;
+  font-size: 32px;
 }
 
 /* mobile display */
@@ -106,21 +106,21 @@ h1{
 }
 
 h4{
-  font-size: 1.25rm;
+  font-size: 1.25rem;
   font-weight: 600;
-  margin: 0px 0px 40px 0px;
+  margin-bottom: 40px;
 }
 
 h3{
   font-size: 1.4rem;
   font-weight: 700;
-  margin: 24px 0px 24px 24px;
+  margin: 24px 1px 24px 24px;
   color: #787878
 }
 
 h5{
   font-size: 1rem;
-  font-weight: 700px;
+  font-weight: 700;
   margin-bottom: 32px;
   color: #787878
 
@@ -290,7 +290,7 @@ p{
   align-items: center;
   height: auto;
   background-color: lightgray;
-  border-left-style: solid: 1px solid gray;
+  border-left-style: solid;
 }
 
 .right-column .right-box-info-guest img{
@@ -391,7 +391,7 @@ p{
 /* thesis exhibit */
 
 .thesis-exhibit {
-  padding 32px 24px;
+  padding: 32px 24px;
   background-color: #fff;
 }
 
@@ -476,13 +476,13 @@ video{
   height: auto;
 }
 
-.thesis-right .article. .thesis-text h3{
+.thesis-right .article .thesis-text h3{
   margin-bottom: 8px;
   font-size: 24px;
   font-weight: bold;
 }
 
-.thesis-right .article. .thesis-text p{
+.thesis-right .article .thesis-text p{
   margin-bottom: 8px;
   font-size: 16px;
 }
@@ -614,11 +614,11 @@ nav .left-footer {
   width: 90%;
   height: auto;
 }
+}
 
 /* right column mobile show infomation section*/
 
 @media only screen and (max-width:625px) {
-
 .right-column {
   padding: 1rem 1rem 2rem 1rem;
   margin: 0;
@@ -648,4 +648,5 @@ nav .left-footer {
 .box-text {
   display: block;
   margin-bottom: 1rem;
+}
 }
