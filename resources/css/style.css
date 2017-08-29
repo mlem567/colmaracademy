@@ -662,6 +662,21 @@ nav .left-footer {
   width: 100%;
 }
 
+.mobile-orientation{
+  display: flex;
+  flex-direction: column;
+  height: auto;
+}
+
+.mobile-container{
+  display: block;
+  width: 100%;
+}
+
+.mobile-text h3, p, a{
+  display: block;
+  margin-bottom: 1rem;
+}
 .box-text {
   diplay: block;
   margin-bottom: 1rem;
