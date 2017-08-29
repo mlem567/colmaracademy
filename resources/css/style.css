@@ -658,10 +658,12 @@ nav .left-footer {
 }
 
 #mobile-img img{
+  diplay; block;
   width: 100%;
 }
 
 .box-text {
+  diplay: block;
   margin-bottom: 1rem;
 }
 }
