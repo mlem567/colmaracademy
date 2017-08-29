@@ -626,7 +626,7 @@ nav .left-footer {
 }
 
 .right-box-info{
-  display: flex;
+  display: block;
   height: auto;
   margin-top: 2rem;
 }
