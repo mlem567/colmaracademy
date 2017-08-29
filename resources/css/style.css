@@ -635,6 +635,17 @@ nav .left-footer {
   display: none;
 }
 
+.mobile-img {
+  display: flex;
+  height: auto;
+  margin-top: 2rem;
+}
+
+.mobile-img {
+  display: block;
+  width: 100%;
+}
+
 #mobile-img{
   display: block;
   width:250%;
