@@ -623,10 +623,16 @@ nav .left-footer {
   padding: 1rem 1rem 2rem 1rem;
   margin: 0;
   margin-top: 2rem;
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .right-box-info{
-  display: flex;
+  display: block;
   height: auto;
   margin-top: 2rem;
 }
@@ -648,7 +654,7 @@ nav .left-footer {
 
 #mobile-img{
   display: block;
-  width:250%;
+  width:90%;
   align-items: center;
 }
 
