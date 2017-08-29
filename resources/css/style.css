@@ -563,7 +563,7 @@ nav .left-footer {
 /* turn off the desktop elements and turn on the mobile elements */
 
   .desktop-nav, .logo, .header-name, .header-title, .left-info, .left-info-text,
-  .left-info-text h3, .left-info-text p,left-info-text img, .desktop, .class img, {
+  .left-info-text h3, .left-info-text p,left-info-text img, .desktop, .class img{
     display:none;
   }
 
@@ -606,7 +606,7 @@ nav .left-footer {
 }
 
 .button{
-  width: 70%;
+  width: 90%;
   align-items: center;
 }
 
@@ -653,7 +653,6 @@ nav .left-footer {
 }
 
 #mobile-img{
-  display: block;
   width:90%;
   align-items: center;
 }
@@ -663,7 +662,8 @@ nav .left-footer {
 }
 
 .box-text {
-  display: block;
   margin-bottom: 1rem;
+  display: flex;
+  text-align: right;
 }
 }
