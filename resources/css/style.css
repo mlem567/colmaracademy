@@ -647,6 +647,7 @@ nav .left-footer {
   width: 100%;
   height: 5rem;
   margin-top: 10px;
+  color: lightgray;
 }
 
 .desktop{
@@ -697,6 +698,10 @@ nav .left-footer {
 
 .start-learning h2{
   text-align: center;
+}
+
+.start-learning{
+  background-color: white;
 }
 
 
