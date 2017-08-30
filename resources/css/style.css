@@ -688,6 +688,8 @@ nav .left-footer {
 #mobile-pict img{
   diplay; block;
   width: 100%;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 
 .mobile-orientation{
@@ -703,8 +705,8 @@ nav .left-footer {
 
 .mobile-text h3, p, a{
   display: block;
-  margin-bottom: 1rem;
-  margin-left: 24px;
+  margin-bottom: 64px;
+  margin-left: 16px;
 }
 .box-text {
   diplay: block;
