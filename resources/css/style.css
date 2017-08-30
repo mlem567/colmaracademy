@@ -654,20 +654,11 @@ nav .left-footer {
   display: none;
 }
 
-.mobile-img {
-  display: flex;
-  height: auto;
-  margin-top: 2rem;
-}
 
-.mobile-img {
-  display: block;
-  width: 100%;
-}
 
 #mobile-img{
-  display: block;
-  width:90%;
+  display: flex;
+  width:100%;
   align-items: center;
 }
 
