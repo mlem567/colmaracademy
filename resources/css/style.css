@@ -711,6 +711,7 @@ nav .left-footer {
 
 .mobile-text p{
   margin-bottom: 16px;
+  margin-left: 16px;
 }
 .box-text {
   diplay: block;
