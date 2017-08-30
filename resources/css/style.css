@@ -340,7 +340,7 @@ p{
   justify-content: center;
   align-items: center;
   background-color: lightgray;
-  padding: 32px 32px;
+  /*padding: 32px 32px;*/
 }
 
 .start-learning h2{
