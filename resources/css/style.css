@@ -32,6 +32,10 @@ header-name{
   display: none;
 }
 
+.mobile-only{
+  display: none;
+}
+
 #mobile-pict{
   display: none;
 }
@@ -644,6 +648,19 @@ nav .left-footer {
   height: auto;
   margin-top: 2rem;
 }
+
+/* new test section for mobile only */
+.mobile-only{
+  display: flex;
+  margin-bottom:  2rem;
+  width: 100%;
+}
+
+.mobile-container{
+  display: block;
+  width: auto;
+}
+
 
 .row{
   flex-flow: column;
