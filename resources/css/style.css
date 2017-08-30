@@ -683,6 +683,7 @@ nav .left-footer {
   display: flex;
   width:100%;
   align-items: center;
+  margin-left: 16px;
 }
 
 #mobile-pict img{
@@ -703,10 +704,13 @@ nav .left-footer {
   width: 100%;
 }
 
-.mobile-text h3, p, a{
+.mobile-text h3, a{
   display: block;
-  margin-bottom: 64px;
   margin-left: 16px;
+}
+
+.mobile-text p{
+  margin-bottom: 16px;
 }
 .box-text {
   diplay: block;
