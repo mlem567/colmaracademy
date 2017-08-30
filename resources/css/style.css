@@ -724,6 +724,8 @@ nav .left-footer {
   display: none;
 }
 
+.reimagine-urban{
+  flex-flow:column;
 }
 
 }
