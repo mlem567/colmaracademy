@@ -704,5 +704,26 @@ nav .left-footer {
   background-color: white;
 }
 
+.thesis-right{
+  display: none;
+}
+
+.thesis-title{
+  text-align: center;
+}
+
+.thesis-title h2{
+  text-align: center;
+}
+
+.thesis-container{
+  display: center;
+}
+
+.urban-text{
+  display: none;
+}
+
+}
 
 }
