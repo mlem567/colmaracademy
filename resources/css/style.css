@@ -246,6 +246,12 @@ p{
   width: 40%;
 }
 
+/*  hide the mobile image */
+
+#mobile-img{
+  display: none;
+}
+
 .right-column .right-box-info{
   display: flex;
   align-items: center;
