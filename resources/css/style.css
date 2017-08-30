@@ -69,7 +69,7 @@ header .logo .header-name{
   color: darkgrey;
 }
 
-/* header logos if mobile nav */
+/* header logos for mobile nav */
 
 .mobile-nav{
   display: none;
@@ -252,9 +252,6 @@ p{
 
 /*  hide the mobile image */
 
-#mobile-pict{
-  /* display: none; */
-}
 
 .right-column .right-box-info{
   display: flex;
@@ -678,10 +675,6 @@ a {
   height: 5rem;
   margin-top: 10px;
   background-color: lightgray;
-}
-
-.desktop{
-  /* display: none; */
 }
 
 
