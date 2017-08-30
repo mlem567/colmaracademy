@@ -32,7 +32,7 @@ header-name{
   display: none;
 }
 
-#mobile-img{
+#mobile-pict{
   display: none;
 }
 
@@ -248,8 +248,8 @@ p{
 
 /*  hide the mobile image */
 
-#mobile-img{
-  display: none;
+#mobile-pict{
+  /* display: none; */
 }
 
 .right-column .right-box-info{
@@ -662,13 +662,13 @@ nav .left-footer {
 }
 
 
-#mobile-img{
+#mobile-pict{
   display: flex;
   width:100%;
   align-items: center;
 }
 
-#mobile-img img{
+#mobile-pict img{
   diplay; block;
   width: 100%;
 }
