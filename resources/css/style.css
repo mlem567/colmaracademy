@@ -297,6 +297,7 @@ p{
   height: auto;
   background-color: lightgray;
   border-left-style: solid;
+  margin-bottom: 32px;
 }
 
 .right-column .right-box-info-guest img{
@@ -659,7 +660,6 @@ nav .left-footer {
 .desktop{
   display: none;
 }
-
 
 
 #mobile-img{
