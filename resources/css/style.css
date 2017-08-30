@@ -704,6 +704,7 @@ nav .left-footer {
 .mobile-text h3, p, a{
   display: block;
   margin-bottom: 1rem;
+  margin-left: 24px;
 }
 .box-text {
   diplay: block;
