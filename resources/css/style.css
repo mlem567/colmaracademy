@@ -726,6 +726,8 @@ nav .left-footer {
 
 .reimagine-urban{
   flex-flow:column;
+  width: 100%;
+  align-items: center;
 }
 
 }
