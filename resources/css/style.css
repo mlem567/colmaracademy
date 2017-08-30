@@ -640,11 +640,13 @@ nav .left-footer {
 
 .row{
   flex-flow: column;
+  margin-bottom: 1px;
 }
 
 .class {
   width: 100%;
   height: 5rem;
+  margin-top: 10px;
 }
 
 .desktop{
@@ -692,4 +694,10 @@ nav .left-footer {
   diplay: block;
   margin-bottom: 1rem;
 }
+
+.start-learning h2{
+  text-align: center;
+}
+
+
 }
