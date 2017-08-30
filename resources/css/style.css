@@ -632,7 +632,7 @@ nav .left-footer {
 }
 
 .right-box-info{
-  display: block;
+  display: flex;
   height: auto;
   margin-top: 2rem;
 }
